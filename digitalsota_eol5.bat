@@ -1,0 +1,2 @@
+python digitalsota_eol5.py
+pause

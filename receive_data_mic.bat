@@ -1,0 +1,2 @@
+python receive_data_mic.py
+pause

@@ -1,0 +1,2 @@
+python digitalsota_mch.py
+pause
